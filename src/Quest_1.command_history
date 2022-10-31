@@ -1,6 +1,8 @@
 git clone git@github.com:antiloch/Day_01.git
-git checkout develop_ermoolaev
-touch Quest_0.command_history >> src
+git checkout -b develop_ermoolaev
+touch Quest_0.command_history
+history 20
 vim Quest_0.command_history
 touch Quest_1.command_history
+history 20
 vim quest_1.command_history

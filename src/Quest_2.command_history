@@ -1,3 +1,6 @@
+git add Quest_0.command_history
+git add Quest_1.command_history
+git add Quest_2.command_history
 git status
 git commit -m "ya ubil marka"
 git config --global user.name "Matuha2009"
