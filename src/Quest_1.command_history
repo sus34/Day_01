@@ -7,4 +7,4 @@ history 20
 vim Quest_0.command_history
 touch Quest_1.command_history
 history 20
-vim quest_1.command_history
+vim Quest_1.command_history
