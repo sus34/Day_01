@@ -1,5 +1,7 @@
 git clone git@github.com:antiloch/Day_01.git
 git checkout -b develop_ermoolaev
+cd /Day_01
+cd /src
 touch Quest_0.command_history
 history 20
 vim Quest_0.command_history
